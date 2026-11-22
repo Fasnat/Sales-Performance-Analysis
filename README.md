@@ -1,2 +1,2 @@
 # Sales-Performance-Analysis
-An interactive Power BI sales analysis project that turns sales data into dashboards for exploring performance by product, customer, sales representative, and time. The report includes filters and budget comparisons to help track sales trends and performance.
+End-to-end sales analysis using SQL Server, Excel, and Power BI. AdventureWorks data is prepared in SQL, exported for analysis, and presented in an interactive dashboard exploring sales by product, customer, location, and time, with budget comparisons.
