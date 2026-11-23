@@ -1,2 +1,2 @@
 # Sales-Performance-Analysis
-End-to-end sales analysis using SQL Server, Excel, and Power BI. AdventureWorks data is prepared in SQL, exported for analysis, and presented in an interactive dashboard exploring sales by product, customer, location, and time, with budget comparisons.
+End-to-end sales analysis using SQL Server and Power BI. I prepared data from the AdventureWorksDW2025 sample database using SQL, exported the results to CSV, and loaded the CSV into Power BI. The report includes interactive pages for sales overview, customer details, and product details. A SQL script shifts dates for analysis, so dates shown through 2026 are adjusted project dates, not original transaction dates.
