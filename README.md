@@ -52,8 +52,6 @@ Power BI
 
 Power Query
 
-CSV
-
 # Data source
 
 Microsoft AdventureWorksDW2025 sample database.
