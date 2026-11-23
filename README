@@ -1,2 +1,0 @@
-Sales Performance Analysis
-An end-to-end sales analysis project using SQL Server and Power BI. I prepared data from Microsoft’s AdventureWorksDW2025 sample database in SQL Server, exported the results to CSV, and used Power Query and Power BI to build an interactive report.
