@@ -44,7 +44,7 @@ SalesDateAdjustment.sql — adjusts sales dates for analysis.
 
 Sales Analysis.pbix — Power BI report.
 
-Tools used
+# Tools used
 
 SQL Server
 
